@@ -57,4 +57,16 @@ ternary structure: condition ? ... : ...;
 array enables storing a collection of multiple items under a signle variable name.
 
 
-11. 
+11. What is loop and How can work it?
+
+Can i tell easily loop is a continue proccess but it is can handle by condition below.
+
+let num = 0; // loop variable
+while(num < 5){ // loop condition
+    console.log(num); // loop statement
+    num++;
+}
+
+
+12. 
+
