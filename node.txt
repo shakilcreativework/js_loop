@@ -64,7 +64,7 @@ Can i tell easily loop is a continue proccess but it is can handle by condition 
 let num = 0; // loop variable
 while(num < 5){ // loop condition
     console.log(num); // loop statement
-    num++;
+    num++; // loop variable change or increment
 }
 
 
